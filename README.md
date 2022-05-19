@@ -1,4 +1,4 @@
-I’m HedTB. I code in multiple languages, I like to play games and make YouTube content. Thanks for checking out my profile!
+I’m HedTB. I code in multiple languages, I like to both play and develop games. Thanks for checking out my profile!
 
 You can get in contact with me via **Discord** by clicking [here](https://discord.com/users/638038115277340723/).
 
