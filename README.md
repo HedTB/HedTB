@@ -2,6 +2,7 @@ I’m HedTB. I code in multiple languages, I like to both play and develop games
 
 You can get in contact with me via **Discord** by clicking [here](https://discord.com/users/638038115277340723/).
 
+![](https://komarev.com/ghpvc/?username=hedtb&color=blue)
 [![wakatime](https://wakatime.com/badge/user/1d239772-b6e6-4bb3-8af4-03d0d1cbc9de.svg)](https://wakatime.com/@HedTB)
 [![twitter](https://img.shields.io/twitter/follow/hedtb_yt?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/hedtb_yt)
 
